@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hussaintah
-- 👀 I’m interested in coding.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 - 📫 How to reach me: gmail-hussaintaha135@gmail.com
 
